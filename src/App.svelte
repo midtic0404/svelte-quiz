@@ -8,6 +8,5 @@
 </style>
 
 
-<h1>Hello World!</h1>
-<h4>H4 from app</h4>
-<Quiz quizName='New Quiz'/>
+<h1>Level Up Music</h1>
+<Quiz />
